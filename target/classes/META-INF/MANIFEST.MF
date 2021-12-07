@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tdevireddy
+Build-Jdk: 17
+Implementation-Title: liquibase
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javadeveloperzone
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/liquibase
+Created-By: Maven Integration for Eclipse
+
